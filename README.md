@@ -6,7 +6,7 @@ This project is a Deep Learning-based image classifier that can distinguish betw
 
 ## Project Structure
 
-- **`notebooks/`**: Contains the Jupyter notebook (`dog_vs_cat_classifier.ipynb`) for model training.
+- **`notebooks/`**: Contains the Jupyter notebook (`Train_test_model.ipynb`) for model training.
 - **`src/`**: Contains the Streamlit app (`app.py`) for testing the trained model.
 - **`model/`**: Location to save the trained model (`model.h5`).
 - **`data/`**: Placeholder for dataset. Add your images to this directory.
